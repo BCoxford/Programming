@@ -1,0 +1,18 @@
+2103, Networking, Year 02, Semester 01
+3109, Advanced Web Development, Year 03, Semester 02
+1101, Programming 01, Year 01, Semester 01
+2107, Mobile Programming, Year 02, Semester 02
+1103, Computer Fundamentals, Year 01, Semester 01
+3101, Major Project, Year 03, Semester 01
+1105, Programming 02, Year 01, Semester 02
+2108, Professional Project, Year 02, Semester 02
+1106, Software Engineering, Year 01, Semester 02
+2102, Databases, Year 02, Semester 01
+3105, The Internet Of Things, Year 03, Semester 01
+3107, Artificial Intelligence, Year 03, Semester 02
+3108, Cybercrime Security, Year 03, Semester 02
+1102, Mathematics, Year 01, Semester 01
+1107, Technology In Context, Year 01, Semester 02
+2101, Programmming 03, Year 02, Semester 01
+2109, Philosophies of Technology, Year 02, Semester 02
+3104, Human Computer Interaction, Year 03, Semester 01

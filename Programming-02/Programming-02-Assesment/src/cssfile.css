@@ -1,0 +1,62 @@
+.hidden:hide {
+	 -fx-text-fill: transparent;
+}
+
+.hidden {
+     -fx-background-color: rgba(0, 119, 190,1);
+     -fx-border-color: black;
+     -fx-pref-width: 30px;
+     -fx-pref-height: 30px;
+}
+
+.sideLabel {
+     -fx-alignment: center ;
+     -fx-background-color: rgba(0, 119, 190,1);
+     -fx-text-fill: white;
+     -fx-border-color: black;
+     -fx-pref-width: 30px;
+     -fx-pref-height: 30px;
+}
+
+.playerShip {
+   -fx-background-color: yellow;
+}
+
+.shipHit {
+	-fx-background-color: red;
+}
+
+.shipMiss {
+	-fx-background-color: white;
+}
+
+.textField {
+	-fx-background-color: rgba(255, 255, 255,1);
+}
+
+.confirmButton {
+	-fx-background-color: rgba(241, 90, 34, 1);
+	-fx-text-fill: white;
+}
+
+.titleLabel {
+	-fx-background-color: rgba(0, 119, 190,1);
+	-fx-text-fill: white;
+	-fx-pref-width: 400px;
+}
+
+.background {
+	-fx-background-color: rgba(217, 30, 24, 1);
+}
+
+.notificationLabel {
+	-fx-text-fill: white;
+}
+
+.playerLabel {
+	-fx-text-fill: white;
+}
+
+.computerLabel {
+	-fx-text-fill: white;
+}
